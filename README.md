@@ -23,11 +23,10 @@ STEP 6:Display the confusion matrix using metrics.ConfusionMatrixDisplay and plo
 STEP 7:End
 ## Program:
 ```
-/*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 Developed by: ANTHONY RAJ N
 RegisterNumber: 212223230017
-*/
+
 import pandas as pd
 data=pd.read_csv("C:/Users/admin/Desktop/Placement_Data.csv")
 data.head()
